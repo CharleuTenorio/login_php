@@ -1,0 +1,9 @@
+Eu criei tres tabelas onde um é para o admi, outra para o 
+gerente e outra para o cambista no meu caso é um sistema de longin para jogo do
+bicho que pode ser usado para qualquer sistema
+
+ao abrir a tela de login vai esta o nome das tabelas 
+
+dai vc cria aqui vc quiaser no mysql agora não esqueça de colocar a senha como MD5 pq faço essa verificação
+
+é simples no insert vc vai colocar: Insert into usuario senha=(MD5('2233344')),
